@@ -4,6 +4,7 @@
 - 💞️ Ask me about the purpose of the universe!
 - 📫 How to reach me you can email me at ben_leevey@proton.me
 - 😄 Pronouns: he/him.
+- Here's a page from my website: https://everyblessinginhim.wordpress.com/2024/09/13/come-to-christ-the-good-news/
 
 <!---
 QualityWebDev/QualityWebDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
