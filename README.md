@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QualityWebDev
 - 👀 I’m interested in  fullstack software development.
-- 🌱 I’m currently learning angular.
-- 💞️ I’m looking to collaborate on any project that need a front end Developer.
+- 🌱 I’m currently learning nextJs and faustJs, and with GraphQL.
+- 💞️ Ask me about the purpose of the universe!
 - 📫 How to reach me you can email me at ben_leevey@proton.me
 - 😄 Pronouns: he/him.
 
